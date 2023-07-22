@@ -8,8 +8,8 @@ resources:
      source: Firstpipeline
      trigger: true
 
-trigger:
-- main
+# trigger:
+# - main
 
 pool: default
 
