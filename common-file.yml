@@ -1,5 +1,5 @@
 jobs:
 - job: Work
   steps:
-  - script: Im content comming from GITHUB!
+  - script: echo "Im content comming from GITHUB!"
     displayName: 'GITHUB to Azure'
